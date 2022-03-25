@@ -2,14 +2,14 @@
 Course materials are organized by week.
 
 |Week  | General Topic  |
-|---|:---|:---|
-| 01 | Introduction to Data Science  |  
+|---|:---|
+| 01 | Introduction to Data Science  |
 | 02 | Version Control & Data  |
 | 03 | Data Ethics  |
 | 04 | Data Analysis |
 | 05 | Inference |
 | 06 | Text Analysis  |
-| 07 | Machine Learning  |  
+| 07 | Machine Learning  |
 | 08 | Geospatial Analysis |
 | 09 | Dimensionality Reduction  |
 | 10 | Data Science Communication & Jobs  |
